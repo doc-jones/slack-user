@@ -1,0 +1,23 @@
+{
+  "name": "slack-user",
+  "version": "1.0.0",
+  "description": "lambda to api gateway to slack getting user.info data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doc-jones/slack-user.git"
+  },
+  "author": "Doc Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doc-jones/slack-user/issues"
+  },
+  "homepage": "https://github.com/doc-jones/slack-user#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "uuid": "^3.3.3"
+  }
+}
