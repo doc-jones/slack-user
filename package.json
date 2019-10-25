@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/doc-jones/slack-user/issues"
   },
-  "homepage": "https://github.com/doc-jones/slack-user#readme"
+  "homepage": "https://github.com/doc-jones/slack-user#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "uuid": "^3.3.3"
+  }
 }
